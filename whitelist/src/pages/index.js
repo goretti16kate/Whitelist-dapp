@@ -174,11 +174,11 @@ export default function Home() {
             {renderButton()}
         </div>
       <div>
-        <img className={styles.image} src="../../public/crypto-devs.svg" />
+        <img className={styles.image} src="./crypto-devs.svg" />
       </div>
       </div>
       <footer className={styles.footer}>
-      Made with &#10084; by Crypto Devs
+      Made with &#10084; by k4713
       </footer>
     </div>
   );
